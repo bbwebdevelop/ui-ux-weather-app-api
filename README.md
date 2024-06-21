@@ -1,3 +1,6 @@
+
+![pexels-rpnickson-2478248](https://github.com/bbwebdevelop/ui-ux-weather-app-api/assets/160744414/934595a3-c496-4dfb-9aa0-343c04327992)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
