@@ -1,5 +1,8 @@
 
-![pexels-rpnickson-2478248](https://github.com/bbwebdevelop/ui-ux-weather-app-api/assets/160744414/934595a3-c496-4dfb-9aa0-343c04327992)
+<img width="1470" alt="Screenshot 2024-06-21 at 09 03 47" src="https://github.com/bbwebdevelop/ui-ux-weather-app-api/assets/160744414/f025a615-6500-45bf-b07a-64ae124ff14c">
+<img width="1470" alt="Screenshot 2024-06-21 at 09 04 11" src="https://github.com/bbwebdevelop/ui-ux-weather-app-api/assets/160744414/105648ba-9479-47e6-bd20-a86b3785fec1">
+<img width="1470" alt="Screenshot 2024-06-21 at 09 04 41" src="https://github.com/bbwebdevelop/ui-ux-weather-app-api/assets/160744414/2aa9f31b-277f-46a7-b8a7-9d3e6ca00f40">
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
